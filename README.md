@@ -41,9 +41,10 @@ Este foi o meu **primeiro projeto desenvolvido em JavaScript**, onde aprendi boa
 
 ## 🎓 Agradecimentos
 
-Este projeto foi desenvolvido com o apoio da [Alura](https://www.alura.com.br) e da instrutora:
+Este projeto foi desenvolvido com o apoio da [Alura](https://www.alura.com.br) e dos professores:
 
 - **[Mônica Mazzochi Hillman](https://www.linkedin.com/in/monicamhillman/)**
+- **[Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-developer/)**
 
-Sou profundamente grato pelos ensinamentos e pela inspiração ao longo de todo o processo de aprendizado!
+Aprender programação pode ser um desafio, mas com a orientação certa, tudo fica mais divertido! Agradeço a vocês por compartilharem conhecimento de forma tão clara e inspiradora. Esse projeto é só o começo! 🚀
 
